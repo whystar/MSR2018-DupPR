@@ -1,0 +1,14 @@
+./code/candidate_dups
+README\.html
+
+*.pyc
+
+code/candidate_dups/
+
+code/\.DS_Store
+
+\.DS_Store
+
+code/manual_verify_ui\.py
+
+code/verify_history\.txt
